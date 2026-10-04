@@ -1,0 +1,5 @@
+print("-- MENU CONTABLE --")
+print("1. Registrar transacción")
+print("2. Consultar transacciones")
+print("3. Generar reporte contable")
+print("4. Salir")
